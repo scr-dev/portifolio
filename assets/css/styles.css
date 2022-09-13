@@ -90,9 +90,9 @@ body.dark-theme {
 }
 
 .change-theme {
-  font-size: 1.25rem;
+  font-size: 1.9rem;
   color: var(--title-color);
-  margin-right: var(--mb-1);
+  margin-right: var(--mb-1-5);
   cursor: pointer;
 }
 
